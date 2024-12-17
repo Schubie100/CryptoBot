@@ -1,1 +1,0 @@
-# indicators.py - Auto-generated
